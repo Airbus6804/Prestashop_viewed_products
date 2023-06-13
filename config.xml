@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>viewedproducts</name>
+    <displayName><![CDATA[Viewed Products]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Shows a chronology of all the products visited]]></description>
+    <author><![CDATA[Ragonesi Alessio]]></author>
+    <tab><![CDATA[viewed_products]]></tab>
+	<confirmUninstall><![CDATA[Are you sure you want to uninstall?]]></confirmUninstall>
+    <is_configurable>0</is_configurable>
+    <need_instance>0</need_instance>
+</module>
