@@ -1,6 +1,6 @@
 <?php
 
-class viewed_products_utilities{
+class ViewedProductsUtilities{
 
     public function getImagePath(Product $product)
     {
@@ -23,6 +23,8 @@ class viewed_products_utilities{
 
         return "<h1>$name: </h1> <code>$encoded</code>";
     }
+
+    
 
 }
 
